@@ -1,0 +1,7 @@
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\StringExercise\StringExercise\bin\Debug\StringExercise.exe.config
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\StringExercise\StringExercise\bin\Debug\StringExercise.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\StringExercise\StringExercise\bin\Debug\StringExercise.pdb
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\StringExercise\StringExercise\obj\Debug\StringExercise.csprojAssemblyReference.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\StringExercise\StringExercise\obj\Debug\StringExercise.csproj.CoreCompileInputs.cache
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\StringExercise\StringExercise\obj\Debug\StringExercise.exe
+C:\Users\glenb\Documents\Visual Studio 2017\Projects\Csharp\StringExercise\StringExercise\obj\Debug\StringExercise.pdb
